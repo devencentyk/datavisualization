@@ -9,8 +9,8 @@ You should be able to just tun the cells though and give the colab file one 'ctr
 view of the dash app. 
 
 If any issues arise when trying to run the .ipynb files, I've attached links to the google colab notebooks.
-Notebook with processing included - https://colab.research.google.com/drive/1SmfUSlyUb0owTvyOqiM4mVOZCIRKJUo-?usp=sharing
-Notebook with just the Dash App - https://drive.google.com/file/d/1snCX2y5PGU-pBQbaHfCqVRnj9rVxZO-C/view?usp=sharing
+* Notebook with processing included - https://colab.research.google.com/drive/1SmfUSlyUb0owTvyOqiM4mVOZCIRKJUo-?usp=sharing
+* Notebook with just the Dash App - https://drive.google.com/file/d/1snCX2y5PGU-pBQbaHfCqVRnj9rVxZO-C/view?usp=sharing
 
 ##### Resources
 _The Harry Potter logo and subtitle images were generated [here](https://fontmeme.com/harry-potter-font/)._
