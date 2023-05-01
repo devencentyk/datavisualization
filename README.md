@@ -4,8 +4,13 @@ To visualize which HP spells were the most common throughout the movie series, a
 cast the most spells. Regex, plotly, and jupyterdash did most of the heavy lifting.
 
 ## How to use
-All data needed should flow in from this [github repo](https://github.com/devencentyk/datavisualization). Just run the cells and give the colab file one 'ctrl + -' to zoom out once for a better 
+All data needed should flow in from this [github repo](https://github.com/devencentyk/datavisualization), however the files are available in the zip file just in case. 
+You should be able to just tun the cells though and give the colab file one 'ctrl + -' to zoom out once for a better 
 view of the dash app. 
+
+If any issues arise when trying to run the .ipynb files, I've attached links to the google colab notebooks.
+Notebook with processing included - https://colab.research.google.com/drive/1SmfUSlyUb0owTvyOqiM4mVOZCIRKJUo-?usp=sharing
+Notebook with just the Dash App - https://drive.google.com/file/d/1snCX2y5PGU-pBQbaHfCqVRnj9rVxZO-C/view?usp=sharing
 
 ##### Resources
 _The Harry Potter logo and subtitle images were generated [here](https://fontmeme.com/harry-potter-font/)._
